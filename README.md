@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Figsh
-- 👀 I’m interested in web designing. 
-- 🌱 I’m currently learning computer programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <a href=https://sawutser.top/4/9299916>open</a>.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Figsh/Figsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings! I'm *Ekuyik Sam*, but you might know me as *Figsh*, the author behind the *fscss stylesheet*. I'm a full-stack web developer, currently diving deep into front-end web design. My driving force in programming is to simplify the learning journey for aspiring developers. I'm all about helping beginners confidently step into the world of web development, transforming into skilled professionals ready to make an impact in their communities. Discover [FSCSS](https://fscss.onrender.com)
