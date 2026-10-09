@@ -1,7 +1,17 @@
-# Hi there, I am Ekuyik Sam (Mr. Figsh). A developer and with a solid understanding of JavaScript. 
+# Hi there, I am Ekuyik Sam (Figsh).
+
+### Created:
+
+**[fscss preprocessor](https://github.com/Figsh/xfscss)**
+
+**[CSS data viz (st-core)](https://github.com/fscss-ttr/st-core.fscss)**  
+
+**[FSCSS libraries](https://github.com/fscss-ttr)**
+
+**[ProvChart](https://chart.devtem.org)** 
 
 - https://figsh.devtem.org
-- 
+ 
 - figsh.official@devtem.org
 
 ___
